@@ -1,5 +1,5 @@
 ## Hey there👋
-### Welcome to my GitHub Profile .
+### Welcome to my GitHub Profile,
 
 I am Monika, a Pre-final year Computer Engineering Student:mortar_board: at Thadomal Shahani Engineering College. I am a Frontend Developer👩‍💻 ,Open Source Contributor:octocat: and a Community Enthusiast🤝 .
 <!--
