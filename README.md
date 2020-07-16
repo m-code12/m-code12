@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### Welcome to my GitHub Profile .
 
-### I am Monika , Pre-final year Computer Engineering :mortar_board: Student at Thadomal Shahani Engineering College.
+### I am Monika , a Pre-final year Computer Engineering Student :mortar_board: at Thadomal Shahani Engineering College. I am a Frontend Developer  , 
 
 <!--
 **m-code12/m-code12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
