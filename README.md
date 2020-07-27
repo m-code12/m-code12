@@ -3,7 +3,7 @@
 
 I am Monika, a Pre-final year Computer Engineering Student:mortar_board: at Thadomal Shahani Engineering College. I am a Frontend Developer👩‍💻 ,Open Source Contributor:octocat: and a Community Enthusiast🤝 .</br>
 
-Have a look at my portfolio here: [Monika's Portfolio](https://m-code12.github.io/monikajha-v1/)
+Have a look at my portfolio : [Monika's Portfolio](https://m-code12.github.io/monikajha-v1/)
 <!--
 **m-code12/m-code12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
