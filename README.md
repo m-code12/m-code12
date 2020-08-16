@@ -1,5 +1,5 @@
 ## Hey there👋
-### Welcome to my GitHub Profile,<p align="right"> <img src="https://komarev.com/ghpvc/?username=m-code12" alt="monika" /> </p>
+### Welcome to my GitHub Profile,
 I am Monika, a Pre-final year Computer Engineering Student:mortar_board: at Thadomal Shahani Engineering College. I am a Microsoft Learn Student Ambassador, a Frontend Developer👩‍💻 , an Open Source Contributor:octocat: and a Community Enthusiast🤝 .</br>
 
 Have a look at my portfolio : [Monika's Portfolio](https://m-code12.github.io/monikajha-v1/)
@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=m-code12" alt="monika" /> </p>
 ![Monika's github stats](https://github-readme-stats.vercel.app/api?username=m-code12&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&width=100)  [Source](https://github.com/anuraghazra/github-readme-stats)
