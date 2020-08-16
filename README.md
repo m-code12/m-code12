@@ -1,7 +1,5 @@
 ## Hey there👋
-### Welcome to my GitHub Profile,
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=m-code12" alt="monika" /> </p>
-
+### Welcome to my GitHub Profile,<p align="right"> <img src="https://komarev.com/ghpvc/?username=m-code12" alt="monika" /> </p>
 I am Monika, a Pre-final year Computer Engineering Student:mortar_board: at Thadomal Shahani Engineering College. I am a Microsoft Learn Student Ambassador, a Frontend Developer👩‍💻 , an Open Source Contributor:octocat: and a Community Enthusiast🤝 .</br>
 
 Have a look at my portfolio : [Monika's Portfolio](https://m-code12.github.io/monikajha-v1/)
