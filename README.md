@@ -1,6 +1,6 @@
 ## Hey there👋
 ### Welcome to my GitHub Profile,
-I am Monika, a Pre-final year Computer Engineering Student:mortar_board: at Thadomal Shahani Engineering College. I am an Alpha Microsoft Learn Student Ambassador, a Frontend Developer👩‍💻 , an Open Source Contributor:octocat: and a Community Enthusiast🤝 .</br>
+I am Monika, a Pre-final year Computer Engineering Student:mortar_board: at Thadomal Shahani Engineering College. I am an Alpha Microsoft Learn Student Ambassador, a Frontend Developer👩‍💻 ,an Open Source Contributor:octocat: and a Community Enthusiast🤝 .</br>
 
 Have a look at my portfolio : [Monika's Portfolio](https://m-code12.github.io/monikajha-v1/)
 <!--
