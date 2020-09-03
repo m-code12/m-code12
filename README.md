@@ -3,6 +3,9 @@
 I am Monika, a Pre-final year Computer Engineering Student:mortar_board: at Thadomal Shahani Engineering College. I am an Alpha Microsoft Learn Student Ambassador,a Frontend Developer👩‍💻 ,an Open Source Contributor:octocat: and a Community Enthusiast🤝 .</br>
 
 Have a look at my portfolio : [Monika's Portfolio](https://m-code12.github.io/monikajha-v1/)
+![vid](https://user-images.githubusercontent.com/53649201/92141667-5d565000-ee30-11ea-84a7-07100634fe5e.gif)
+<img align="right" alt="GIF" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" width="400px" />
+
 <!--
 **m-code12/m-code12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
