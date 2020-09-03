@@ -1,5 +1,6 @@
-## Hey there!<img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="40px">
+## Hey there!<img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="40px"><br>
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/53649201/92141667-5d565000-ee30-11ea-84a7-07100634fe5e.gif" width="500px" />
+
 ### Welcome to my GitHub Profile,
 
 <br>
@@ -27,5 +28,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<br><br>
+<br>
 ![Monika's github stats](https://github-readme-stats.vercel.app/api?username=m-code12&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&width=100)  [Source](https://github.com/anuraghazra/github-readme-stats)
