@@ -1,4 +1,4 @@
-## Hey there <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px">
+## Hey there!<img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="40px">
 ### Welcome to my GitHub Profile,
 I am Monika, a Pre-final year Computer Engineering Student:mortar_board: at Thadomal Shahani Engineering College. I am an Alpha Microsoft Learn Student Ambassador,a Frontend Developer👩‍💻 ,an Open Source Contributor:octocat: and a Community Enthusiast🤝 .</br>
 
