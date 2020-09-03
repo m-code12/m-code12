@@ -1,5 +1,5 @@
 ## Hey there!<img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="40px"><br>
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/53649201/92141667-5d565000-ee30-11ea-84a7-07100634fe5e.gif" width="500px" />
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/53649201/92141667-5d565000-ee30-11ea-84a7-07100634fe5e.gif" width="500px" border="1" />
 
 ### Welcome to my GitHub Profile,
 <br>
