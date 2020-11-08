@@ -1,4 +1,4 @@
-## Hey there!<img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="40px"><br>
+## Hey there!<img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="45px"><br>
 <p align="center"><img src="https://media.giphy.com/media/kMM3vtBEgSsLu/giphy.gif"  width="500px" /></p>
 
 
@@ -12,6 +12,7 @@ I am Monika Jha, a Pre-final year Computer Engineering Student:mortar_board: at 
 </br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m-code12" alt="monika" /> </p>
+</br>
 
 
 <!--
@@ -29,5 +30,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-</br>
+
 ![Monika's github stats](https://github-readme-stats.vercel.app/api?username=m-code12&show_icons=true&theme=synthwave)
