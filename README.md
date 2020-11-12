@@ -2,7 +2,7 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/53649201/98955917-7b71b800-2525-11eb-9c0c-f3951786e025.jpg"  width="500px" /></p>
 
 
-<p><img align="right" alt="GIF" src="https://user-images.githubusercontent.com/53649201/98462016-ee51fa80-21d6-11eb-92b9-393853f5490b.gif" width="350px" />
+<p><img align="right" alt="GIF" src="https://user-images.githubusercontent.com/53649201/98955917-7b71b800-2525-11eb-9c0c-f3951786e025.jpg" width="350px" />
 </br>
 I am Monika Jha, a Pre-final year Computer Engineering Student:mortar_board: at Thadomal Shahani Engineering College. I am an Alpha Microsoft Learn Student Ambassador🚀, a Frontend Developer👩‍💻 , an Open Source Contributor:octocat: and a Community Enthusiast🤝 .</br><br></p>
 
