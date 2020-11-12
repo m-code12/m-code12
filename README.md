@@ -1,5 +1,5 @@
 ## Hey there!<img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="45px"><br>
-<p align="center"><img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"  width="500px" /></p>
+<p align="center"><img src="https://media.giphy.com/media/kMM3vtBEgSsLu/giphy.gif"  width="500px" /></p>
 
 
 <p><img align="right" alt="GIF" src="https://user-images.githubusercontent.com/53649201/98955917-7b71b800-2525-11eb-9c0c-f3951786e025.jpg" width="350px" />
