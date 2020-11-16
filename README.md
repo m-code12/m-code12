@@ -28,7 +28,6 @@
 
 [![website](https://img.shields.io/badge/PortfolioWebsite-MonikaJha-2648ff?style=flat-square&logo=google-chrome)](https://m-code12.github.io/monikajha-v1/)
 
-</br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m-code12" alt="monika" /> </p>
 
 
