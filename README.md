@@ -30,10 +30,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m-code12" alt="monika" /> </p>
 <a href="https://github.com/m-code12">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-code12&layout=compact&theme=synthwave" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-code12&layout=compact&theme=synthwave&hide_langs_below=1" />
   </a>
  <a href="https://github.com/m-code12"> 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=m-code12&show_icons=true&theme=synthwave" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=m-code12&show_icons=true&theme=synthwave&line_height=27" />
   </a>
 
 
