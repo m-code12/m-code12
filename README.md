@@ -4,7 +4,10 @@
 
 <p><img align="right" alt="GIF" src="https://user-images.githubusercontent.com/53649201/98462016-ee51fa80-21d6-11eb-92b9-393853f5490b.gif" width="350px" />
 </br>
-I am Monika Jha, a Pre-final year Computer Engineering Student:mortar_board: at Thadomal Shahani Engineering College. I am an Alpha Microsoft Learn Student Ambassador🚀, a Frontend Developer👩‍💻 , an Open Source Contributor:octocat: and a Community Enthusiast🤝 .</br><br></p>
+<!--I am Monika Jha, a Pre-final year Computer Engineering Student:mortar_board: at Thadomal Shahani Engineering College. I am an Alpha Microsoft Learn Student Ambassador🚀, a Frontend Developer👩‍💻 , an Open Source Contributor:octocat: and a Community Enthusiast🤝 .</br><br></p>  ----->
+
+# I'm Monika Jha
+## Web Developer 👩‍💻 || Microsoft Learn Student Ambassador🚀 || Open Source Contributor:octocat:
 
 <!--:link: Have a look at my portfolio 👇:</br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Monika's Portfolio](https://m-code12.github.io/monikajha-v1/)      ----->
 <!---![vid](https://user-images.githubusercontent.com/53649201/92141667-5d565000-ee30-11ea-84a7-07100634fe5e.gif)     https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif  ---->
