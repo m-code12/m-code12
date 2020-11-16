@@ -30,6 +30,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m-code12" alt="monika" /> </p>
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-code12&layout=compact&theme=synthwave" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=m-code12&show_icons=true&theme=synthwave" />
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m-code12&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
