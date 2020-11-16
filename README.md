@@ -11,15 +11,6 @@
 
 <!--:link: Have a look at my portfolio 👇:</br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Monika's Portfolio](https://m-code12.github.io/monikajha-v1/)      ----->
 <!---![vid](https://user-images.githubusercontent.com/53649201/92141667-5d565000-ee30-11ea-84a7-07100634fe5e.gif)     https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif  ---->
-</br>
-
-[![website](https://img.shields.io/badge/PortfolioWebsite-MonikaJha-2648ff?style=flat-square&logo=google-chrome)](https://m-code12.github.io/monikajha-v1/)
-
-</br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=m-code12" alt="monika" /> </p>
-
-
-
 
 <!--
 **m-code12/m-code12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
@@ -29,11 +20,18 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on myself :muscle: .
 - 🌱 I’m currently learning React and polishing my Data Structures and Algorithms.
 - 👯 I’m looking to collaborate on Open Source Projects .
-<!--- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...   ---->
 - 📫 How to reach me: monikajha70@gmail.com
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I love sports. I also love helping people.
+
+<!--- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...   ---->
+</br>
+
+[![website](https://img.shields.io/badge/PortfolioWebsite-MonikaJha-2648ff?style=flat-square&logo=google-chrome)](https://m-code12.github.io/monikajha-v1/)
+
+</br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=m-code12" alt="monika" /> </p>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m-code12&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
