@@ -28,13 +28,13 @@
 
 [![website](https://img.shields.io/badge/PortfolioWebsite-MonikaJha-2648ff?style=flat-square&logo=google-chrome)](https://m-code12.github.io/monikajha-v1/)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=m-code12" alt="monika" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=m-code12" alt="monika" /> </p></br>
 <a href="https://github.com/m-code12">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-code12&layout=compact&theme=synthwave&hide_langs_below=1" />
-  </a>
+</a>
  <a href="https://github.com/m-code12"> 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=m-code12&show_icons=true&theme=synthwave&line_height=27" />
-  </a>
+ </a>
 
 
 <!----[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m-code12&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats) ---->
