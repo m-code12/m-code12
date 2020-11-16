@@ -42,13 +42,13 @@
 <!--- ![Monika's github stats](https://github-readme-stats.vercel.app/api?username=m-code12&show_icons=true&theme=synthwave) ----->
 
 <h4>Connect with me :</h4>
-<a href="https://www.linkedin.com/in/monika-jha-413895176/">
+<a href="https://www.linkedin.com/in/monika-jha-413895176/" target="blank">
   <img align="left" alt="Pawan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/monika_jha_1205/">
+<a href="https://www.instagram.com/monika_jha_1205/" target="blank">
   <img align="left" alt="Pawan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://twitter.com/Monika88185917">
+<a href="https://twitter.com/Monika88185917" target="blank">
   <img align="left" alt="Pawan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 
