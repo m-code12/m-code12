@@ -14,6 +14,8 @@ I am Monika Jha, a Pre-final year Computer Engineering Student:mortar_board: at 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m-code12" alt="monika" /> </p>
 </br>
 
+[![website](https://img.shields.io/badge/PortfolioWebsite-monikajha-2648ff?style=flat-square&logo=google-chrome)](https://m-code12.github.io/monikajha-v1/)
+
 
 <!--
 **m-code12/m-code12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
