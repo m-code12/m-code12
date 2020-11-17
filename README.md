@@ -41,6 +41,8 @@
 
 <!--- ![Monika's github stats](https://github-readme-stats.vercel.app/api?username=m-code12&show_icons=true&theme=synthwave) ----->
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=m-code12&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
 <h3>Connect with me :<img src="https://user-images.githubusercontent.com/53649201/99296951-8ef68900-286d-11eb-9bf3-fdb6cf13b585.gif" height="32px"></h3>
 <a href="https://www.linkedin.com/in/monika-jha-413895176/" target="blank">
   <img align="left" alt="Monika's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
