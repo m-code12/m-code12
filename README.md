@@ -43,7 +43,7 @@
 </br>
 </br>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=m-code12)](https://github.com/DenverCoder1/github-readme-streak-stats)
+<!---[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=m-code12)](https://github.com/DenverCoder1/github-readme-streak-stats)---->
 
 <h3>Connect with me :<img src="https://user-images.githubusercontent.com/53649201/99296951-8ef68900-286d-11eb-9bf3-fdb6cf13b585.gif" height="32px"></h3>
 <a href="https://www.linkedin.com/in/monika-jha-413895176/" target="blank">
