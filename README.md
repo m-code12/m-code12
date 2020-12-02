@@ -40,7 +40,6 @@
 <!----[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m-code12&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats) ---->
 
 <!--- ![Monika's github stats](https://github-readme-stats.vercel.app/api?username=m-code12&show_icons=true&theme=synthwave) ----->
-</br>
 <!---[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=m-code12)](https://github.com/DenverCoder1/github-readme-streak-stats)---->
 
 <h3>Connect with me :<img src="https://user-images.githubusercontent.com/53649201/99296951-8ef68900-286d-11eb-9bf3-fdb6cf13b585.gif" height="32px"></h3>
