@@ -1,4 +1,4 @@
-## Hey there!<img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="45px"><br>
+## Hey there!<!---<img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="45px">----><br>
 <p align="center"><img src="https://media.giphy.com/media/kMM3vtBEgSsLu/giphy.gif"  width="500px" /></p>
 
 
