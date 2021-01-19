@@ -20,7 +20,7 @@
 - 👯 I’m looking to collaborate on Open Source Projects .
 - 📫 How to reach me: monikajha70@gmail.com
 - 😄 Pronouns: She/her
-- ⚡ Fun fact: I love sports. I also love helping people.
+- ⚡ Fun fact: I love sports and adventure. I also love helping people.
 
 <!--- 🤔 I’m looking for help with ...
 - 💬 Ask me about ...   ---->
