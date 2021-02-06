@@ -17,7 +17,7 @@
 
 - 🔭 I’m currently working on myself :muscle: .
 - 🌱 I’m currently learning MERN Stack and polishing my Data Structures and Algorithms.
-- 👯 I’m looking to collaborate on Open Source Projects .
+- 👯 I’m looking to collaborate on Open Source Projects in the domain of Web Development and DSA.
 - 📫 How to reach me: monikajha70@gmail.com
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I love sports and adventure. I also love helping people.
