@@ -16,7 +16,7 @@
 **m-code12/m-code12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 - 🔭 I’m currently working on myself :muscle: .
-- 🌱 I’m currently learning React and polishing my Data Structures and Algorithms.
+- 🌱 I’m currently learning MERN Stack and polishing my Data Structures and Algorithms.
 - 👯 I’m looking to collaborate on Open Source Projects .
 - 📫 How to reach me: monikajha70@gmail.com
 - 😄 Pronouns: She/her
